@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T19:33:52.837Z" agent="5.0 (Macintosh)" etag="GYvmSWvHf4FA2tMWAvOJ" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T19:33:58.768Z" agent="5.0 (Macintosh)" etag="BKlzZdkPSUbJJoYAsW2u" version="14.9.2" type="github">
   <diagram id="hyk8w-bVJRb5cHFdbb5j" name="Page-1">
     <mxGraphModel dx="1666" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-82" value="Model Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="891.51" y="-65.61" width="72.33" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-iayDu2l66xgWA1nQs0N-86" value="DATA LAKE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-iayDu2l66xgWA1nQs0N-86" value="DATA LAKE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="250" width="83.03" height="20" as="geometry" />
         </mxCell>
       </root>
