@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T19:08:24.405Z" agent="5.0 (Macintosh)" etag="QfKZY562ofmaGL6NrEN6" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T19:11:19.987Z" agent="5.0 (Macintosh)" etag="er5eHuRwDxDkicAuWmcA" version="14.9.2" type="github">
   <diagram id="hyk8w-bVJRb5cHFdbb5j" name="Page-1">
     <mxGraphModel dx="2217" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-iayDu2l66xgWA1nQs0N-30" target="-iayDu2l66xgWA1nQs0N-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-iayDu2l66xgWA1nQs0N-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-iayDu2l66xgWA1nQs0N-30" target="-iayDu2l66xgWA1nQs0N-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-30" value="Consumer MQTT Broker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
           <mxGeometry x="680" y="521" width="83.33" height="80" as="geometry" />
         </mxCell>
@@ -100,8 +103,11 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-iayDu2l66xgWA1nQs0N-45" target="-iayDu2l66xgWA1nQs0N-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-iayDu2l66xgWA1nQs0N-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-iayDu2l66xgWA1nQs0N-45" target="-iayDu2l66xgWA1nQs0N-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-45" value="Services Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus_Relay.svg;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="72.5" width="85" height="85" as="geometry" />
+          <mxGeometry x="1050" y="286" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-iayDu2l66xgWA1nQs0N-48" target="-iayDu2l66xgWA1nQs0N-55">
           <mxGeometry relative="1" as="geometry">
@@ -109,10 +115,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-48" value="Cached DB" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="73.5" width="98.81" height="83" as="geometry" />
+          <mxGeometry x="1260.19" y="73.5" width="98.81" height="83" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-55" value="Mobile App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
           <mxGeometry x="1500" y="65" width="68" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-iayDu2l66xgWA1nQs0N-57" value="Web App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="1267.6" y="540" width="84" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
