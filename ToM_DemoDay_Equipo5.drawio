@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T20:04:40.890Z" agent="5.0 (Macintosh)" etag="-A-cZ8rGSUVdkoKwdYgk" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T01:12:08.933Z" agent="5.0 (Macintosh)" etag="gW8XqGmr2d5HRvwwQgYA" version="14.9.2" type="github">
   <diagram id="hyk8w-bVJRb5cHFdbb5j" name="Page-1">
-    <mxGraphModel dx="1666" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-45" value="Services Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus_Relay.svg;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="286" width="85" height="85" as="geometry" />
+          <mxGeometry x="1050" y="247.5" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-48" target="-iayDu2l66xgWA1nQs0N-55" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -165,8 +165,32 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-86" value="DATA LAKE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="239" width="83.03" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mb4YWiwYy1BoeR4oTHRL-1" value="Entregable Demo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="Mb4YWiwYy1BoeR4oTHRL-1" value="Entregable Demo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="657.66" y="540" width="128" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_one_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="65" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_one_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="619.4" y="65" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_one_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="1072.5" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_one_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="1270" y="199" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_two_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="406" y="424" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_two_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="424" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_two_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="1110" y="431" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_looks_two_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="1270" y="342" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
