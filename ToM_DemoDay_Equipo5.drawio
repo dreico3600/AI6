@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T01:29:08.531Z" agent="5.0 (Macintosh)" etag="doypXupFWlvPzOAmdn8G" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T01:29:48.785Z" agent="5.0 (Macintosh)" etag="e8ZtyrEDxHmOkQduX--Z" version="14.9.2" type="github">
   <diagram id="hyk8w-bVJRb5cHFdbb5j" name="Page-1">
     <mxGraphModel dx="1351" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,11 +46,21 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-iayDu2l66xgWA1nQs0N-13" target="-iayDu2l66xgWA1nQs0N-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-11" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-iayDu2l66xgWA1nQs0N-28">
+          <mxGeometry x="-0.4061" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-13" value="Frames" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48x48-free-object-icons/48/Multimedia.png" parent="1" vertex="1">
           <mxGeometry x="262" y="163" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-iayDu2l66xgWA1nQs0N-14" target="-iayDu2l66xgWA1nQs0N-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2mXIAvijdZb-n4LG-mJ-12" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-iayDu2l66xgWA1nQs0N-26">
+          <mxGeometry x="0.5778" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-14" value="Frames" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48x48-free-object-icons/48/Multimedia.png" parent="1" vertex="1">
           <mxGeometry x="257" y="477" width="48" height="48" as="geometry" />
@@ -64,7 +74,7 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-27" target="-iayDu2l66xgWA1nQs0N-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iayDu2l66xgWA1nQs0N-27" value="Services Broker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;shadow=0;dashed=0;fontFamily=Helvetica;fontColor=#4277BB;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="-iayDu2l66xgWA1nQs0N-27" value="HTTPS Broker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;shadow=0;dashed=0;fontFamily=Helvetica;fontColor=#4277BB;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="480" y="70" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-29" target="-iayDu2l66xgWA1nQs0N-34" edge="1">
