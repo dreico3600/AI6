@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T01:12:08.933Z" agent="5.0 (Macintosh)" etag="gW8XqGmr2d5HRvwwQgYA" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T01:29:08.531Z" agent="5.0 (Macintosh)" etag="doypXupFWlvPzOAmdn8G" version="14.9.2" type="github">
   <diagram id="hyk8w-bVJRb5cHFdbb5j" name="Page-1">
-    <mxGraphModel dx="1892" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-27" target="-iayDu2l66xgWA1nQs0N-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iayDu2l66xgWA1nQs0N-27" value="Services Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;shadow=0;dashed=0;fontFamily=Helvetica;fontColor=#4277BB;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="-iayDu2l66xgWA1nQs0N-27" value="Services Broker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;shadow=0;dashed=0;fontFamily=Helvetica;fontColor=#4277BB;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="480" y="70" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-29" target="-iayDu2l66xgWA1nQs0N-34" edge="1">
@@ -109,7 +109,7 @@
         <mxCell id="-iayDu2l66xgWA1nQs0N-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-45" target="-iayDu2l66xgWA1nQs0N-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-iayDu2l66xgWA1nQs0N-45" value="Services Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus_Relay.svg;" parent="1" vertex="1">
+        <mxCell id="-iayDu2l66xgWA1nQs0N-45" value="Services Broker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus_Relay.svg;" parent="1" vertex="1">
           <mxGeometry x="1050" y="247.5" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-iayDu2l66xgWA1nQs0N-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iayDu2l66xgWA1nQs0N-48" target="-iayDu2l66xgWA1nQs0N-55" edge="1">
